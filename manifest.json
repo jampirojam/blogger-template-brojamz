@@ -1,0 +1,55 @@
+{
+  "name": "BROJAMZ",
+  "short_name": "BROJAMZ",
+  "start_url": "https://brojamz.blogspot.com",
+  "display": "standalone",
+  "background_color": "#212121",
+  "theme_color": "#212121",
+  "description": "BROJAMZ, Sebuah blog tentang opini diri akan suatu hal serta kumpulan catatan ilmu yang telah dipelajari",
+  "icons": [{
+    "src": "https://tinyurl.com/brojamz57",
+    "sizes": "57x57",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://tinyurl.com/brojamz72",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://tinyurl.com/brojamz76",
+    "sizes": "76x76",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://tinyurl.com/brojamz114",
+    "sizes": "114x114",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://tinyurl.com/brojamz120",
+    "sizes": "120x120",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://tinyurl.com/brojamz144",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://tinyurl.com/brojamz152",
+    "sizes": "152x152",
+    "type": "image/png",
+    "density": "5.0"
+  }, {
+    "src": "https://tinyurl.com/brojamz180",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "6.0"
+  },{
+    "src": "https://tinyurl.com/brojamz300",
+    "sizes": "300x300",
+    "type": "image/png",
+    "density": "7.0"
+  }]
+}
