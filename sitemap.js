@@ -30,7 +30,7 @@ var mf_defaults = {
   listClass: "list-entries",
   readMore: {
     text: "More",
-    endParam: "?max-results=20"
+    endParam: "?max-results=12"
   },
   autoHeight: false,
   current: 0,
