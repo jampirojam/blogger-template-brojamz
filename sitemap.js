@@ -1,3 +1,39 @@
+var multiFeed = {
+    feedsUri: [
+        {
+            name: "Teknologi",
+            url: "https://brojamz.blogspot.com/",
+            tag: "Teknologi"
+        },
+        {
+            name: "Informasi",
+            url: "https://brojamz.blogspot.com/",
+            tag: "Informasi"
+        },
+        {
+            name: "Pendidikan",
+            url: "https://brojamz.blogspot.com/",
+            tag: "Pendidikan"
+        },
+        {
+            name: "Permainan",
+            url: "https://brojamz.blogspot.com/",
+            tag: "Permainan"
+        }
+    ],
+    numPost: 4,
+    showThumbnail: true,
+    showSummary: true,
+    summaryLength: 80,
+    titleLength: "auto",
+    thumbSize: 72,
+    newTabLink: true,
+    containerId: "feed-list-container",
+    readMore: {
+        text: "Selengkapnya",
+        endParam: "?max-results=12"
+    }
+};
 var mf_defaults = {
   feedsUri: [{
             name: "Teknologi",
